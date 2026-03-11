@@ -1,150 +1,169 @@
-# 📘 Real-World Java Programs using DSA & OOP
+OOPs
+Array
+LinkedList
+Strings
+Stacks
+Queues
+HashMap
+BitManipulation
+Dynamic Programming
 
-This repository contains a curated collection of real-world, interview-relevant Java programs built using core Computer Science concepts:
+===============================
+60 Real-World DSA / OOP Programs
+1. OOP Programs (Real System Design) – 10 Programs
 
-* Object-Oriented Programming (OOP)
-* Arrays
-* Linked List
-* Stacks
-* Queues
-* HashMap / Hashing
-* Strings
-* Bit Manipulation
-* Dynamic Programming
-* Tries
+Library Management System – Manage books, users, borrowing and returns.
 
-These programs simulate real software systems and help build strong problem-solving and system design fundamentals.
+Online Shopping Cart System – Add/remove products, calculate total bill.
 
----
+Bank Account Management System – Deposit, withdraw, transfer money.
 
-# 🧠 Topic-wise Program List
+Parking Lot Management System – Track vehicles entering and leaving.
 
-## 🧩 OOP-Based System Design Programs
+Student Course Registration System – Enroll students in courses.
 
-1. Library Management System – Manage books, users, borrowing and returns
-2. Online Shopping Cart System – Add/remove products, calculate total bill
-3. Bank Account Management System – Deposit, withdraw, transfer money
-4. Parking Lot Management System – Track vehicles entering and leaving
-5. Student Course Registration System – Enroll students in courses
-6. Movie Ticket Booking System – Book seats and manage show timings
-7. Hospital Appointment System – Schedule doctor appointments
-8. Food Delivery System – Restaurants, orders, delivery tracking
-9. Employee Payroll System – Calculate salaries and bonuses
-10. Ride Sharing System – Match drivers with passengers
-11. Train Coach Management System – Coaches added/removed dynamically
-12. Order Processing System – Handle customer orders in sequence
+Movie Ticket Booking System – Book seats and manage show timings.
 
----
+Hospital Appointment System – Schedule doctor appointments.
 
-## 🔢 Array-Based Real-World Programs
+Food Delivery System – Restaurants, orders, delivery tracking.
 
-13. Daily Temperature Analyzer – Find hottest/coldest day from array
-14. Stock Price Profit Calculator – Best day to buy and sell stock
-15. Student Marks Analyzer – Find topper, average, pass percentage
-16. Sales Data Analysis – Find best selling product
-17. Rotate Advertisement Display – Rotate array for banner ads
-18. Find Duplicate Transactions – Detect duplicate entries
-19. Two-Sum Payment Matching – Find two payments matching target amount
-20. Inventory Stock Tracker – Track item quantity updates
+Employee Payroll System – Calculate salaries and bonuses.
 
----
+Ride Sharing System (like Uber) – Match drivers with passengers.
 
-## 🔗 Linked List Applications
+2. Array Programs – 8 Programs
 
-21. Music Playlist Manager – Add/remove songs dynamically
-22. Browser History Navigation – Back and forward navigation
-23. Social Media Feed Scroll System – Infinite feed structure
+Daily Temperature Analyzer – Find hottest/coldest day from array.
 
----
+Stock Price Profit Calculator – Best day to buy and sell stock.
 
-## 📚 Stack-Based Systems
+Student Marks Analyzer – Find topper, average, pass percentage.
 
-24. Undo/Redo Editor System – Maintain edit history
-25. Undo Feature in Text Editor – Reverse recent changes
-26. Balanced Bracket Validator – Syntax validation for compilers
-27. Browser Back Button Implementation – Page navigation using stacks
-28. Call Stack Simulation – Function call execution model
-29. Reverse Words in a Sentence using Stack – NLP preprocessing
-30. Expression Calculator – Evaluate mathematical expressions
+Sales Data Analysis – Find best selling product.
 
----
+Rotate Advertisement Display – Rotate array for banner ads.
 
-## 🚶 Queue-Based Systems
+Find Duplicate Transactions – Detect duplicate entries.
 
-31. Customer Service Queue System – Manage waiting customers
-32. Printer Job Scheduling System – Print request handling
-33. Customer Support Ticket Queue – IT/helpdesk ticket system
-34. Task Scheduler (CPU Simulation) – Process scheduling (FCFS)
-35. Call Center Waiting System – Caller handling queue
-36. Traffic Signal Simulation – Vehicle movement control
+Two-Sum Payment Matching – Find two payments matching target amount.
 
----
+Inventory Stock Tracker – Track item quantity updates.
 
-## 🗂 HashMap / Hashing Applications
+3. LinkedList Programs – 7 Programs
 
-37. Chat Message Word Counter – Count word frequency in chats
-38. Log File Parser – Detect and count error logs
-39. Spam Message Detector – Identify spam content
-40. Word Frequency Counter – Text analytics
-41. Student Database Lookup System – Fast student record search
-42. Vote Counting System – Election vote tally system
-43. Phone Contact Lookup System – Mobile contact search
-44. URL Shortener Mapping – Short URL to long URL mapping
+Music Playlist Manager – Add/remove songs dynamically.
 
----
+Browser History Navigation – Back and forward navigation.
 
-## 🔤 String Processing Systems
+Train Coach Management System – Coaches added/removed dynamically.
 
-45. Password Strength Checker – Validate password security
-46. Email Validator – Validate email format
-47. Search Engine Keyword Matching – Document search by keyword
-48. Text Auto-Correct System – Suggest correct words
-49. URL Slug Generator – SEO-friendly URL creation
-50. Text Autocomplete Optimization – Prefix-based suggestions (Trie)
+Undo/Redo Editor System – Maintain edit history.
 
----
+Customer Service Queue List – Manage waiting customers.
 
-## ⚙️ Bit Manipulation Systems
+Memory Management Simulation – Allocate/free blocks.
 
-51. Permission System (Read/Write/Execute bits) – OS-style permissions
-52. Efficient Toggle Feature Flags – Enable/disable app features
-53. Check Power of Two for Resource Allocation – Memory optimization
-54. Find Unique User ID in Logs – Detect non-duplicate using XOR
+Social Media Feed Scroll System – Infinite feed structure.
 
----
+4. String Programs – 8 Programs
 
-## 🧮 Dynamic Programming (Optimization Problems)
+Password Strength Checker
 
-55. Minimum Cost Travel Planner – Cheapest route with step choices
-56. Optimal Investment Strategy – Budget-based profit maximization
-57. Warehouse Robot Path Optimization – Minimum grid path cost
-58. Energy Efficient Smart Home Scheduling – Appliance energy optimization
+Email Validator
 
----
+Search Engine Keyword Matching
 
-# 🎯 Skills You Gain
+Chat Message Word Counter
 
-* Real-world system modeling
-* Clean OOP design
-* Strong DSA fundamentals
-* Interview-ready problem solving
-* Optimization techniques
-* Practical Java development
+Text Auto-Correct System
 
----
+Log File Parser
 
-# 🚀 Suggested Usage
+Detect Spam Messages
 
-* Practice 1–2 programs daily
-* Push implementations to GitHub
-* Convert selected ones into mini projects
-* Use in resumes and interviews
+URL Slug Generator for Websites
 
----
+5. Stack Programs – 6 Programs
 
-If you want, you can extend this list to:
+Undo Feature in Text Editor
 
-* 100 DSA programs
-* Full-stack integrated versions
-* GUI-based Java apps
-* Spring Boot backend systems
+Expression Calculator (evaluate math expressions)
+
+Balanced Bracket Validator (for compilers)
+
+Browser Back Button Implementation
+
+Call Stack Simulation
+
+Reverse Words in a Sentence using Stack
+
+6. Queue Programs – 6 Programs
+
+Printer Job Scheduling System
+
+Customer Support Ticket Queue
+
+Task Scheduler (CPU simulation)
+
+Order Processing System
+
+Call Center Waiting System
+
+Traffic Signal Simulation
+
+7. HashMap Programs – 6 Programs
+
+Word Frequency Counter
+
+Student Database Lookup System
+
+Cache System Simulation (like LRU)
+
+Vote Counting System
+
+Phone Contact Lookup System
+
+URL Shortener Mapping
+
+8. Bit Manipulation Programs – 4 Programs
+
+Permission System (Read/Write/Execute bits)
+
+Efficient Toggle Feature Flags
+
+Check Power of Two for Resource Allocation
+
+Find Unique User ID in Logs
+
+9. Dynamic Programming Programs – 5 Programs
+
+Minimum Cost Travel Planner
+
+Optimal Investment Strategy
+
+Warehouse Robot Path Optimization
+
+Text Autocomplete Optimization
+
+Energy Efficient Smart Home Scheduling
+
+If you want, I can also give you the TOP 25 MOST IMPORTANT programs companies actually ask, such as:
+
+LRU Cache
+
+Producer Consumer Problem
+
+Rate Limiter
+
+Elevator System
+
+File System Design
+
+Autocomplete System
+
+Recommendation Engine
+
+Traffic Navigation System
+
+Social Media Feed Ranking
